@@ -1,5 +1,5 @@
 # 🧑🏾‍💻Emerson RJ
-**'Analista de Suporte Senior e Desenvolvedor FullStaak Junior'**
+**Analista de Suporte Senior e Desenvolvedor FullStaak Junior**
 
 Sou um profissional de TI movido pelo desafio de transformar problemas em soluções práticas e eficientes. Ao longo da minha trajetória, atuei em organizações de grande porte como Petrobras e Governo do Estado da Bahia, oferecendo suporte técnico, estruturando redes e garantindo a segurança e o bom funcionamento de ambientes de TI.
 
